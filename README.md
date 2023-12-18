@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I am currently a final year engineering student specialized in Machine Learning.
-- ⚡ I am dynamic and motivated swith fast-learning capacities.
-- 🌱 I have a great passion for modern technologies especially in the fields of Data Science and Machine Learning
-- 👯 I’m looking to collaborate on new projects
-- 📫 How to reach me: https://www.linkedin.com/in/salma-ayachi/
+🔭 Working AI apprentice at REEV in Toulouse,France.
+🎓 Currently pursuing a Master's in AI.
+⚡ Dynamic and motivated with fast-learning capacities.
+🌱 Passionate about modern technologies, particularly Data Science and Machine Learning.
+👯 Open to collaborating on new projects.
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/salma-ayachi/
